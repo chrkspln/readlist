@@ -1,7 +1,4 @@
 # Readlist
-
-This repository contains a collection of educational and self-improvement books in PDF format. 
-
 ## Contents
 
 - **Advanced English Vocabulary.pdf**: A comprehensive guide to advanced English vocabulary
